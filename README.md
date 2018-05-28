@@ -19,6 +19,8 @@ additional information such as:
 • release date
 
 #•  allow users to view and play trailers in the youtube.
+
 #• allow users to read reviews of a selected movie.
+
 #• allow users to mark a movie as a favorite in the details view by
 tapping a button(star). 
